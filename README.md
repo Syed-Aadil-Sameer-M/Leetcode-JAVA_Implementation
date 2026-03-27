@@ -7,6 +7,7 @@
 | [0009-palindrome-number](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0013-roman-to-integer) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0039-combination-sum) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Backtracking
 |  |
 | ------- |
@@ -45,4 +47,12 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0015-3sum) |
+## Matrix
+|  |
+| ------- |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+## Simulation
+|  |
+| ------- |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 <!---LeetCode Topics End-->
