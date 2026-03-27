@@ -28,4 +28,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0039-combination-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
