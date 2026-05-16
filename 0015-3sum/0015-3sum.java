@@ -1,41 +1,67 @@
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
 
 class Solution {
+    
     public List<List<Integer>> threeSum(int[] nums) {
-        List<List<Integer>> result = new ArrayList<>();
-        Arrays.sort(nums); // Step 1: sort
         
-        for (int i = 0; i < nums.length - 2; i++) {
-            // Skip duplicates for i
-            if (i > 0 && nums[i] == nums[i - 1]) continue;
-            
+        List<List<Integer>> res = new ArrayList<>();
+        
+        if(nums == null || nums.length < 3) {
+            return res;
+        }
+
+        Arrays.sort(nums);
+
+        int n = nums.length;
+
+        for(int i = 0; i < n - 2; i++) {
+
+            // Skip duplicates
+            if(i > 0 && nums[i] == nums[i - 1]) {
+                continue;
+            }
+
+            // Since array is sorted
+            if(nums[i] > 0) {
+                break;
+            }
+
             int left = i + 1;
-            int right = nums.length - 1;
-            
-            while (left < right) {
+            int right = n - 1;
+
+            while(left < right) {
+
                 int sum = nums[i] + nums[left] + nums[right];
-                
-                if (sum == 0) {
-                    result.add(Arrays.asList(nums[i], nums[left], nums[right]));
-                    
-                    // Skip duplicates for left
-                    while (left < right && nums[left] == nums[left + 1]) left++;
-                    
-                    // Skip duplicates for right
-                    while (left < right && nums[right] == nums[right - 1]) right--;
-                    
+
+                if(sum == 0) {
+
+                    res.add(Arrays.asList(nums[i], nums[left], nums[right]));
+
+                    // Skip duplicates
+                    while(left < right && nums[left] == nums[left + 1]) {
+                        left++;
+                    }
+
+                    while(left < right && nums[right] == nums[right - 1]) {
+                        right--;
+                    }
+
                     left++;
                     right--;
-                } else if (sum < 0) {
+                }
+                else if(sum < 0) {
                     left++;
-                } else {
+                }
+                else {
                     right--;
                 }
             }
         }
-        
-        return result;
+
+        return res;
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/leethub-v4/bcilpkkbokcopmabingnndookdogmbna
