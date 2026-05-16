@@ -44,6 +44,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -66,10 +67,12 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0054-spiral-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0054-spiral-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Divide and Conquer
