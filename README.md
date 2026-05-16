@@ -41,6 +41,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0045-jump-game-ii) |
 | [0088-merge-sorted-array](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -83,10 +84,15 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1143-longest-common-subsequence](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/1143-longest-common-subsequence) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0796-rotate-string) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
